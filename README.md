@@ -14,8 +14,8 @@ Ser reconocidos a nivel nacional como una empresa líder por medio de la apertur
 Cubrir todas las necesidades de nuestros clientes a bajos precios, manteniendo la calidad sin dejar de lado la conciencia ambiental. 
 
 ## Objetivos Específicos
-  Mantener comunicacion permanente con el cliente para asi satisfacer nuevos requerimientos.
-  Ajustar permanentemente nuestro sistema de inventario y todo lo que sea necesario para brindar un excelente servicio.
-  Sostener buenas relaciones con nuestros proveedores, de esta manera sostener precios ajustados al bolsillo de nuestros clientes.
-  realizar permanente seguimiento a la ubicacion de nuestros puntos de venta, de este modo poder estar cada vez mas cerca de todos nuestros clientes y aliados.
-  Mantener nuestros inventarios al dia y surtidos, de este modo satisfacer y ayudar a nuestros clientes de manera oportuna.
+ - Mantener comunicación permanente con el cliente para asi satisfacer nuevos requerimientos.
+ - Ajustar permanentemente nuestro sistema de inventario y todo lo que sea necesario para brindar un excelente servicio.
+ - Sostener buenas relaciones con nuestros proveedores, de esta manera sostener precios ajustados al bolsillo de nuestros clientes.
+ - Realizar permanente seguimiento a la ubicación de nuestros puntos de venta, de este modo poder estar cada vez mas cerca de todos nuestros clientes y aliados.
+ - Mantener nuestros inventarios al día y surtidos, de este modo satisfacer y ayudar a nuestros clientes de manera oportuna.
